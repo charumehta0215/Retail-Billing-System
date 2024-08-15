@@ -1,0 +1,24 @@
+  	  	**Welcome Customer**
+Bill Number:655
+
+Customer Name:siya
+
+Customer phone number:564523232
+
+*******************************************************Product			Quantity			Price
+*******************************************************
+Bath soap						0Rs
+Facecream						50Rs
+Facewash						0Rs
+Hair spray						0Rs
+Hair gel						0Rs
+Body Lotion						0Rs
+*******************************************************
+ Cosmetic Tax		endendendendend9.0Rs
+ Grocery Tax		endendendendend2.4Rs
+ Cosmetic Tax		0.0Rs
+*******************************************************
+
+
+Total Bill 				 91.4
+*******************************************************
